@@ -43,7 +43,7 @@ El proyecto ha sido diseñado para ser ligero y no requiere dependencias externa
     ```
 2.  **Acceder al directorio:**
     ```bash
-    cd nombre-del-repo
+    cd Global---CAT1---AI-Training-for-Software-Developer
     ```
 3.  **Ejecución:**
     Simplemente abre el archivo `index.html` en tu navegador preferido.
